@@ -25,3 +25,5 @@ To suggest pesticides, we will use a database that contains information about th
 
 ### Conclusion:
 In this project, we have developed a plant disease detection system using CNN and provided information about the cause of the disease, steps to prevent it, and suggested pesticides to control the disease. This system can potentially help farmers detect and control plant diseases early, leading to higher crop yields and reduced economic losses. Further improvements can be made by incorporating other sources of data such as soil moisture, temperature, and humidity to enhance the accuracy of the disease detection.
+
+## [Learn Visually - Experience the app here](https://plant-disease-detection.streamlit.app/)

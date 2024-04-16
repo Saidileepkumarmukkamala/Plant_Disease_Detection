@@ -6,7 +6,7 @@ from streamlit_lottie import st_lottie
 import requests
 from tensorflow import keras
 from PIL import Image
-import cv2
+#import cv2
 import os
 
 file = open('pesticides.txt', 'r')

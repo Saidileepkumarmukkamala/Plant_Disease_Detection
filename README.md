@@ -17,7 +17,7 @@ We will split the dataset into training and validation sets and train the model 
 ### Testing:
 To test the performance of our model, we will use a separate test set and calculate the accuracy, precision, recall, and F1-score. If the model achieves satisfactory performance, we can move on to the final step.
 
-### Plant Disease Detection and Information:
+### Plant Disease Detection:
 We will use Streamlit, a Python library, to create a web application that allows users to upload an image of a plant and detect the disease. Once the disease is detected, the application will provide information about the cause of the disease, steps to prevent it, and suggest pesticides to control the disease. We can use a database that contains information about the different diseases, their causes, and the recommended pesticides.
 
 ### Pesticides with Image and Link to Buy:
